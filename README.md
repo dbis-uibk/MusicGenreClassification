@@ -9,8 +9,8 @@ The detailed list of features we used to train our classifiers is given in the f
 # Datasets and Classifiers
 Pickled datasets for subtask 1 and pre-trained classifiers for subtask 2 can be downloaded at the following locations:
 
-* Datasets for subtask 1: ...
-* Classifiers for subtask 2: ...
+* Datasets for subtask 1: https://dbis-owncloud.uibk.ac.at/index.php/s/PL7iQzaZBGpzWhm/download?path=%2F&files=task1_datasets.zip
+* Classifiers for subtask 2: https://dbis-owncloud.uibk.ac.at/index.php/s/PL7iQzaZBGpzWhm/download?path=%2F&files=task2_classifiers.zip
 
 # Examples
 Example usage for `task1.py`:
